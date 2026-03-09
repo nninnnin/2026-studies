@@ -65,3 +65,7 @@ dispatch({ type: 'NAVIGATE', tree: newRSCTree })
 → 렌더링 완료, Suspense 해소
 → isPending = false
 결국 isPending의 생명주기는 **"transition 중에 발생한 모든 Suspense가 해소될 때까지"**예요. Next.js는 fetch → 캐시 → Suspense의 연결고리를 통해 React의 transition 시스템 안에 자연스럽게 녹아들어요.
+
+## 데모 주제
+
+검색 결과 페이지 이동 시 로딩 인디케이터

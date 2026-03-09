@@ -35,3 +35,7 @@ function SearchResults({ query }: { query: string }) {
   return {results.map(...)};
 }
 ```
+
+## 데모 주제
+
+실시간 검색 필터 (리스트 100개 이상)

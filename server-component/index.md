@@ -20,3 +20,9 @@ export default async function Page() {
 
 - https://www.joshwcomeau.com/react/server-components/
 - https://github.com/reactjs/server-components-demo
+
+## 데모 주제
+
+(Server Component + Suspense)
+
+대시보드 (헤더 즉시, 차트/테이블 순차 로딩)
