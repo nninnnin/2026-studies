@@ -1,26 +1,33 @@
 # Subjects
 
+5년차도 놓치기 쉬운, 알면 레벨업되는 패턴들
+
 ## Node.js
 
-- ESM vs CJS
+- [ ] ESM vs CJS
 
 ## React
 
-- Server Component
+- [ ] Server Component
 
-- `useTransition` hook
+- [ ] `useTransition` hook
 
-- Server Action, Server Function
+- [ ] Server Action, Server Function
 
-- React Compiler
+- [ ] React Compiler
 
-- Differences between `useTransition` and `useDefferedValue`
+- [ ] Differences between `useTransition` and `useDefferedValue`
 
-- Server Component Boundaries
+- [ ] Server Component Boundaries
 
-- `use` hook
+- [ ] `use` hook
 
 ## Next.js
 
-- Next.js Caching Layer
-- `revalidatePath` / `revalidateTag`
+- [ ] Next.js Caching Layer
+
+- [ ] `revalidatePath` / `revalidateTag`
+
+- [ ] `loading.tsx` vs Suspense
+
+- [ ] Parallel Routes vs Intercepting Routes
